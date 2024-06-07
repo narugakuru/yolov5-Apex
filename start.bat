@@ -1,0 +1,1 @@
+E:/Environment/anaconda3/envs/fps/python.exe e:/Code/Yolo/yolov5/windmouse_detect5.py
